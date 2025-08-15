@@ -1,0 +1,2617 @@
+[
+  {
+    "symbol": "👽",
+    "words": ["alien", "android"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "🍎",
+    "words": ["a"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "🫲🏿",
+    "words": ["there"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "♣",
+    "words": ["nightclub", "nightclubs"],
+    "categories": ["face"]
+  },
+
+  {
+    "symbol": "🚁",
+    "words": ["fly"],
+    "categories": ["face"]
+  },
+
+  {
+    "symbol": "🎙",
+    "words": ["song", "sing"],
+    "categories": ["face"]
+  },
+
+  {
+    "symbol": "🎙📓",
+    "words": ["rap","rapper"],
+    "categories": ["face"]
+  },
+
+  {
+    "symbol": "👑",
+    "words": ["king", "royal", "ruler"],
+    "categories": ["face"]
+  },
+
+  {
+    "symbol": "👸🏿",
+    "words": ["queen"],
+    "categories": ["face"]
+  },
+
+  {
+    "symbol": "🔌",
+    "words": ["plug"],
+    "categories": ["face"]
+  },
+
+  {
+    "symbol": "💰",
+    "words": ["bag"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🤺",
+    "words": ["play","playing"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🎮",
+    "words": ["game", "Game"],
+    "categories": ["face"]
+  },
+
+  {
+    "symbol": "🔫",
+    "words": ["gun", "pistol", "strap"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "🔫🔫🔫",
+    "words": [ "guns"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "👶🏿",
+    "words": [ "kid", "child"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "🌵",
+    "words": ["cactus", "dessert", "dry"],
+    "categories": ["plant"]
+  },
+  {
+    "symbol": "🐘",
+    "words": ["elephant", "obesse", "fat"],
+    "categories": ["animal"]
+  },
+  {
+    "symbol": "🍟",
+    "words": ["fries", "fried"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "👻",
+    "words": ["ghost", "duppy", "soul"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "💜",
+    "words": ["heart", "love", "monogomous"],
+    "categories": ["shape"]
+  },
+  {
+    "symbol": "🍦",
+    "words": ["ice-cream", "complexion"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🤹",
+    "words": ["juggler", "entertainers", "gate-keepers"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "📦🥝",
+    "words": ["kiwi", "box", "pussy"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🎲",
+    "words": ["dice", "ceelo", "craps"],
+    "categories": ["animal"]
+  },
+  {
+    "symbol": "🍄",
+    "words": ["mushroom", "shrooms", "drugs"],
+    "categories": []
+  },
+  {
+    "symbol": "📰",
+    "words": ["news"],
+    "categories": []
+  },
+  {
+    "symbol": "🐙",
+    "words": ["octopus", "finesse", "finessed"],
+    "categories": ["animal"]
+  },
+  {
+    "symbol": "💩",
+    "words": ["poop", "SHIT", "shit"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "🚽",
+    "words": ["bathroom"],
+    "categories": []
+  },
+  {
+    "symbol": "❓",
+    "words": ["question"],
+    "categories": []
+  },
+  {
+    "symbol": "🤖",
+    "words": ["robot", "AI", "ai", "automation"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "💀🔪🔫💀",
+    "words": ["skull", "kill", "killed","killing","kills"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "🦄",
+    "words": ["dumb"],
+    "categories": ["animal"]
+  },
+  {
+    "symbol": "🌋",
+    "words": ["crash-out","crash"],
+    "categories": []
+  },
+  {
+    "symbol": "❗🚫",
+    "words": ["not"],
+    "categories": []
+  },
+
+  {
+    "symbol": "📜📄",
+    "words": ["will", "paper"],
+    "categories": []
+  },
+
+  {
+    "symbol": "🤐",
+    "words": ["shut-up"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "⚙️",
+    "words": [ "scam","scammer","scams"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "😁",
+    "words": ["grin","happy"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "😎",
+    "words": ["sunglasses"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "🦦",
+    "words": ["chill", "chillin"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "😠",
+    "words": ["mad", "mad-mad", "tight"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "😭",
+    "words": ["cry", "crying", "halarious", "funny", "snapping"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "😜🃏",
+    "words": ["silly", "fool","fooled"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "😱",
+    "words": ["whoops", "mistake", "scary"],
+    "categories": ["face"]
+  },
+  {
+    "symbol": "💻",
+    "words": ["computer", "laptop", "device"],
+    "categories": ["device", "entertainment"]
+  },
+  {
+    "symbol": "✅",
+    "words": ["check", "good", "go"],
+    "categories": []
+  },
+  {
+    "symbol": "💔",
+    "words": ["heartbreak", "break-up", "ex-boyfriend", "ex-girlfriend"],
+    "categories": []
+  },
+  {
+    "symbol": "🐕",
+    "words": ["dog", "mutt", "Anubis"],
+    "categories": ["animal"]
+  },
+  {
+    "symbol": "🍔",
+    "words": ["burger", "sandwich"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🍹",
+    "words": ["cocktail", "drinks"],
+    "categories": ["food", "drink"]
+  },
+  {
+    "symbol": "🍕",
+    "words": ["pizza", "pedophile", "creep"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🌮🌯",
+    "words": ["taco", "latin", "burrito", "spanish"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🍇",
+    "words": ["grapes", "fruit"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🍓",
+    "words": ["strawberry"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🍍",
+    "words": ["pineapple"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🍉",
+    "words": ["watermelon", "down-south"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🍌",
+    "words": ["banana"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "❌",
+    "words": ["don't"],
+    "categories": ["word"]
+  },
+
+  {
+    "symbol": "👍🏿",
+    "words": ["yes"],
+    "categories": ["food"]
+  },
+
+  {
+    "symbol": "🙏🏿",
+    "words": ["please"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "👎🏿",
+    "words": ["no"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🍿",
+    "words": ["popcorn", "shoot", "shooting"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🆙",
+    "words": ["up"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🏆",
+    "words": ["like","win"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🏆🏆🏆",
+    "words": ["win","winner","winnin","winning","won"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🍰",
+    "words": ["cake", "birthday"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🍺",
+    "words": ["beer", "bar"],
+    "categories": ["food", "drink"]
+  },
+
+  {
+    "symbol": "🪩",
+    "words": ["party"],
+    "categories": ["food", "drink"]
+  },
+  {
+    "symbol": "🍷",
+    "words": ["wine", "brunch", "mamosas"],
+    "categories": ["food", "drink"]
+  },
+  {
+    "symbol": "🍆",
+    "words": ["meat", "dick"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🍫",
+    "words": ["chocolate", "candy"],
+    "categories": ["food"]
+  },
+  {
+    "symbol": "🍼",
+    "words": ["bottle"],
+    "categories": ["food", "drink"]
+  },
+
+  {
+    "symbol": "🥛",
+    "words": ["milk"],
+    "categories": ["food", "drink"]
+  },
+
+  {
+    "symbol": "🏧",
+    "words": ["sugardaddy"],
+    "categories": ["food", "drink"]
+  },
+  {
+    "symbol": "🍾♣️",
+    "words": ["champagne", "club", "clubbing"],
+    "categories": ["holiday"]
+  },
+  {
+    "symbol": "🍸",
+    "words": ["martini", "cocktails", "happy-hour"],
+    "categories": ["food", "drink"]
+  },
+  {
+    "symbol": "🍽",
+    "words": ["dinner", "plate", "restaurant"],
+    "categories": []
+  },
+
+  {
+    "symbol": "🍱🍖🍱",
+    "words": ["eat"],
+    "categories": []
+  },
+  {
+    "symbol": "🏎",
+    "words": ["car", "whip", "vehicle"],
+    "categories": ["vehicle"]
+  },
+  {
+    "symbol": "🚅",
+    "words": ["train", "motion"],
+    "categories": ["vehicle"]
+  },
+  {
+    "symbol": "✈️",
+    "words": ["plane","airplane", "flight", "airlines"],
+    "categories": ["vehicle"]
+  },
+  {
+    "symbol": "🌎",
+    "words": ["earth", "world", "globe", "planet"],
+    "categories": []
+  },
+  {
+    "symbol": "⛵",
+    "words": ["boat","sail","sailing", "sailboat"],
+    "categories": ["vehicle"]
+  },
+  {
+    "symbol": "🌧",
+    "words": ["rain", "rainy","raining"],
+    "categories": ["weather"]
+  },
+  {
+    "symbol": "🌨",
+    "words": ["snow", "snowing"],
+    "categories": ["weather"]
+  },
+  {
+    "symbol": "🌩",
+    "words": ["thunderstorm"],
+    "categories": ["weather"]
+  },
+
+  {
+    "symbol": "🌞",
+    "words": ["sun", "sunny", "day", "bright"],
+    "categories": ["weather", "face"]
+  },
+
+  {
+    "symbol": "🦖",
+    "words": ["beast","beasting"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🌪",
+    "words": ["tornado", "wild","wilding"],
+    "categories": ["weather"]
+  },
+  {
+    "symbol": "🔥",
+    "words": [ "great", "hot", "spicy"],
+    "categories": []
+  },
+  {
+    "symbol": "🧯",
+    "words": ["fire","fires"],
+    "categories": ["weather"]
+  },
+  {
+    "symbol": "🎃",
+    "words": ["halloween", "october"],
+    "categories": ["face", "holiday"]
+  },
+  {
+    "symbol": "🎄",
+    "words": ["christmas", "tree","trees"],
+    "categories": ["holiday", "plant"]
+  },
+  {
+    "symbol": "📺",
+    "words": ["tv", "program", "programming", "tv-show"],
+    "categories": ["device", "entertainment"]
+  },
+  {
+    "symbol": "🎶🎼",
+    "words": ["music"],
+    "categories": ["entertainment"]
+  },
+  {
+    "symbol": "🎬",
+    "words": ["action", "cut"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "➕➕➕",
+    "words": ["same"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "📖",
+    "words": ["book","know", "knowledge", "story"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "📓",
+    "words": ["notebook","pages"],
+    "categories": []
+  },
+  {
+    "symbol": "🔑🗝️",
+    "words": ["key", "kilos", "kilo","keys"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🛠",
+    "words": ["fix","fixes", "work", "tools", "tool"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "📱",
+    "words": ["phone", "i-phone"],
+    "categories": ["device", "entertainment"]
+  },
+
+  {
+    "symbol": "📞",
+    "words": ["call"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🤩",
+    "words": ["influencer"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🫠",
+    "words": ["wasted", "drunk"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "😇",
+    "words": ["virgin", "innocent"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "💶💵",
+    "words": ["cash"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "⬜",
+    "words": ["missing", "m.i.a"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "😷",
+    "words": ["sick", "ill", "contagious"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🐈",
+    "words": ["cat"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "💯",
+    "words": ["100", "real", "true","really","best"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🚫✖️🚫",
+    "words": ["ain't"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "💋",
+    "words": ["sexy", "kiss", "kisses", "sex"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "💥",
+    "words": ["bomb", "boom", "popped","popping","pop"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "👁️",
+    "words": [ "i", "me"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🪮🪮",
+    "words": [ "we"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🧈",
+    "words": ["but"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🧠🧠",
+    "words": ["mind","minds"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🧠",
+    "words": ["smart", "intelligent", "think","brain"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🫀",
+    "words": ["heart","organs"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "👀",
+    "words": ["look","looks","looking"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🫁",
+    "words": ["breathe","breathing"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🔭",
+    "words": ["see", "seeing","seen"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🧑",
+    "words": ["karen"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🎭",
+    "words": ["and"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🧔‍♀️",
+    "words": ["ken"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🌨️👩‍🦳",
+    "words": ["snowbunny"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🤷🏾‍♀️🙅🏾‍♀️​",
+    "words": ["maybe", "idk"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🚮",
+    "words": ["trash"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🐝",
+    "words": ["be"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🤵🏿‍♂️",
+    "words": ["man", "him", "he"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🤵🏿‍♀️",
+    "words": ["woman", "she", "her"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🫵🏾",
+    "words": ["you"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🫵🏾🫵🏾",
+    "words": ["your"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🚛🚛",
+    "words": ["move","moving","moved","moves"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🤝🏿",
+    "words": ["deal","agreed","agree"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "👂🏽",
+    "words": ["hear", "hearing", "heard"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "👮‍♂️",
+    "words": ["12", "fed", "feds"],
+    "categories": ["person"]
+  },
+  {
+    "symbol": "🍩👮‍♂️",
+    "words": ["police","cop","cops"],
+    "categories": ["person"]
+  },
+  {
+    "symbol": "🥷🏽​",
+    "words": ["ninja","yn","nigga","niggas"],
+    "categories": ["person"]
+  },
+  {
+    "symbol": "🧌",
+    "words": ["troll","trolling","ogre","trolls"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🛌",
+    "words": ["bed", "bedtime", "sleep","rest", "sleepy"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🛀",
+    "words": ["bathe", "bath"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "👨‍👨‍👧‍👦",
+    "words": ["family"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "👨‍👦",
+    "words": ["single-parent"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🦍",
+    "words": ["silverbback", "g", "savage"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🐩",
+    "words": ["bitch"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🐂🔫",
+    "words": ["beef","beefing"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🐁",
+    "words": ["rat", "69", "takashi"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🦨",
+    "words": ["stink","smells","stinks","musty"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🦾🕸",
+    "words": ["team", "set", "crew"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "☕",
+    "words": ["tea", "gossip", "gossiping"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "⛪",
+    "words": ["church", "chuch", "tabernacle"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "🛑",
+    "words": ["stop","stopped","stops","stopping"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🕛",
+    "words": ["time","timing"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🔮",
+    "words": ["future","futures"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🌈",
+    "words": ["gay", "homo", "gays"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "⛄",
+    "words": ["snowman", "doe-boy", "drug-dealer"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🏴✊🏿🏴",
+    "words": ["black"],
+    "categories": ["device"]
+  },
+  {
+      "symbol": "🐩🐩",
+      "words": ["bitches","bitching"],
+      "categories": [
+          "device"
+      ]
+  },
+  {
+      "symbol": "🥘🍟",
+      "words": ["cooked"],
+      "categories": [
+          "device"
+      ]
+  },
+  {
+      "symbol": "🛣️",
+      "words": ["road", "street","streets","roads"],
+      "categories": [
+          "device"
+      ]
+  },
+
+  {
+    "symbol": "🎱✊🏿🎱",
+    "words": ["power"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🎯",
+    "words": ["target"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "👩🏿‍🍼​​",
+    "words": ["mom", "mommy"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "😖​​",
+    "words": ["mad"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🥱​",
+    "words": ["boring","bored"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "⬇️",
+    "words": ["down","downward","downwards"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🎰🎲​",
+    "words": ["gambling","gamble","gambles"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "👊🏿🎯",
+    "words": ["hit","hits","hitting"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🍽️🎱",
+    "words": ["ate"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🏠",
+    "words": ["home", "Home", "crib"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "💳",
+    "words": ["card", "credit","debit"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🗿📟",
+    "words": ["og", "OG"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🪪",
+    "words": ["id","unkown"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🧾",
+    "words": ["proof","prove","prooving"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "⚜️",
+    "words": ["the"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "⭕",
+    "words": ["it"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🧊",
+    "words": ["cold", "heartless","colder","coldest"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "❄️",
+    "words": ["cocaine", "coke"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🎠",
+    "words": ["heroine","white-horse"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "♻️",
+    "words": [ "recycle","recycled","recycling","recycles"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "♻️♻️♻️",
+    "words": [ "redo"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🚑🏥",
+    "words": ["hospital","hospitals","hospitalize","hospitalized"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🖕🏿",
+    "words": ["fuck","fucks","fucked","fucking"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🕋",
+    "words": ["muslim","muslims"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🕍",
+    "words": [ "jewish","jew","jews"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🥊",
+    "words": ["fight","fights","fighting"],
+    "categories": ["device"]
+  },
+
+  {
+    "symbol": "🇺🇸",
+    "words": ["america"],
+    "categories": ["country"]
+  },
+  {
+    "symbol": "🇲🇽",
+    "words": ["mexico"],
+    "categories": ["country"]
+  },
+  {
+    "symbol": "🇯🇲",
+    "words": ["jamaica"],
+    "categories": ["country"]
+  },
+  {
+    "symbol": "🇭🇹",
+    "words": ["haiti"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🇵🇷",
+    "words": ["p.r.", "puerto rico"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🇩🇴",
+    "words": ["d.r.", "domincan republic"],
+    "categories": ["country"]
+  },
+  {
+    "symbol": "🇨🇺",
+    "words": ["cuba"],
+    "categories": ["country"]
+  },
+  {
+    "symbol": "🇨🇦",
+    "words": ["canada"],
+    "categories": ["country"]
+  },
+  {
+    "symbol": "⚕️🙅🏾‍♀️​",
+    "words": ["medicine","doctor","doctors"],
+    "categories": [""]
+  },
+  {
+    "symbol": "⚰️",
+    "words": ["dead"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🪬",
+    "words": ["yoga", "peace"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🪫",
+    "words": ["powerless", "empty", "gone "],
+    "categories": [""]
+  },
+  {
+    "symbol": "🔒",
+    "words": ["closed", "lock", "locked"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🔓",
+    "words": ["unlock", "unlocked", "open"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🚬",
+    "words": ["smoke"],
+    "categories": [""]
+  },
+
+  {
+    "symbol": "🧳🛎️🏖️",
+    "words": ["vacation","vacay"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🧳",
+    "words": ["suitcase"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🛎️",
+    "words": ["bell","rings","rang","ring"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🌃🌆",
+    "words": ["city"],
+    "categories": ["location"]
+  },
+  {
+    "symbol": "🎒🎮",
+    "words": ["backpack"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🌱👼🏿",
+    "words": ["life", "seedling","live","life's","lifes"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🏳️‍🌈",
+    "words": ["gay","homo"],
+    "categories": ["people"]
+  },
+  {
+    "symbol": "🤦🏿‍♂️",
+    "words": ["omg", "smh"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🫄🏿",
+    "words": ["pregnant"],
+    "categories": ["people"]
+  },
+  {
+    "symbol": "🧘🏿‍♀️🕉️",
+    "words": ["meditation", "calm"],
+    "categories": [""]
+  },
+  
+  {
+    "symbol": "🎹",
+    "words": ["musician"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🛝",
+    "words": ["slide","leave","leaving","sliding","slid"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🎡",
+    "words": ["social-media", "ferris-wheel"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🎪",
+    "words": ["circus", "politics","politic"],
+    "categories": ["device"]
+  },
+  {
+    "symbol": "🎢",
+    "words": ["riding"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🛼🛹",
+    "words": ["skate"],
+    "categories": [""]
+  },
+  {
+    "symbol": "⛲",
+    "words": ["water", "wet", "squirt"],
+    "categories": [""]
+  },
+  {
+    "symbol": "✉ 📟",
+    "words": ["post","posting","posted","posts"],
+    "categories": [""]
+  },
+  {
+    "symbol": "✂ ",
+    "words": ["cut","cutting","cuts"],
+    "categories": [""]
+  },
+  {
+    "symbol": "✒",
+    "words": ["write", "right","writes"],
+    "categories": [""]
+  },
+  {
+    "symbol": "✊",
+    "words": ["have","having","havs"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "★★",
+    "words": ["want","wanting","wanted","wants"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "⛓️",
+    "words": ["jail", "prison","jailed"],
+    "categories": [""]
+  },
+  {
+    "symbol": "📶",
+    "words": ["bars"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🧑🏾‍⚖️",
+    "words": ["judge","court","judging","judged"],
+    "categories": [""]
+  },
+  {
+    "symbol": "⚖️",
+    "words": ["law","laws"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🙅🏾‍♀️​⚖️",
+    "words": ["lawyer","lawyers"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🖨️",
+    "words": ["copy","copied","copying","copies"],
+    "categories": [""]
+  },
+  {
+    "symbol": "📡",
+    "words": ["signal","signaling"],
+    "categories": [""]
+  },
+  {
+    "symbol": "⚡⚡⚡",
+    "words": ["shock", "shocked", "shocking","shocks"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🌐",
+    "words": ["network"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🛜",
+    "words": ["wifi"],
+    "categories": [""]
+  },
+  {
+    "symbol": "💆🏾‍♂️",
+    "words": ["relax","relaxing","relaxed"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🏚️",
+    "words": ["bando"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🪤",
+    "words": ["trapping", "trappin", "trap","traps"],
+    "categories": [""]
+  },
+  {
+    "symbol": "⛳",
+    "words": ["in"],
+    "categories": [""]
+  },
+  {
+    "symbol": "⛳🏌🏾",
+    "words": ["golf"],
+    "categories": [""]
+  },
+  {
+    "symbol": "💺",
+    "words": ["seat", "sit"],
+    "categories": [""]
+  },
+  {
+    "symbol": "♾️",
+    "words": ["always", "often", "nuff","enough"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🏟️",
+    "words": ["sports"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🥅",
+    "words": ["goal"],
+    "categories": ["word"]
+  },
+
+  {
+    "symbol": "🔛",
+    "words": ["on"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🌸🌺🌼",
+    "words": ["beautiful", "beauty", "pretty"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "📳",
+    "words": ["vibrate", "vibe", "vybe","vybz"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "📢",
+    "words": ["loud"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🎒",
+    "words": ["pac"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👂🏽👂🏽",
+    "words": ["listen","listening"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🤫",
+    "words": ["don’t-tell"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👩🏿‍❤️‍💋‍👨🏿📆",
+    "words": ["date","dating","dated"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "💄",
+    "words": ["make-up", "lipstick"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🔃",
+    "words": ["Around"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🗃️💾",
+    "words": ["save", "file","saving","filing"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "📌",
+    "words": ["push", "pin"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "💊💊",
+    "words": ["drugged"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "💊",
+    "words": ["drugs", "pills", "pill", "drug"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🫗",
+    "words": ["poor", "pour"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🏦",
+    "words": ["bank","banking","banked"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "🏴‍☠️",
+    "words": ["gang"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🏴‍☠️🏴‍☠️",
+    "words": ["gang-gang"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "☢️☣️",
+    "words": ["danger", "radioactive"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🥸",
+    "words": ["fake", "fugazee","faking","faked"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🥂",
+    "words": ["toast", "cheers","toasting"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🖤",
+    "words": ["wicked", "evil", "bad"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "📸",
+    "words": ["picture","pic","picturing"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "💡",
+    "words": ["idea"],
+    "categories": ["word"]
+  },
+
+  {
+    "symbol": "🔦",
+    "words": ["light","lighting"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🎞️📽️",
+    "words": ["movie","film","movies"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🥼",
+    "words": ["science", "scientist"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🩸",
+    "words": ["blood", "bloods"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "💧",
+    "words": ["crip", "crips"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🛡️",
+    "words": ["protection", "protect","protecting"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🚕",
+    "words": ["taxi", "uber"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👖👕👟",
+    "words": ["clothes"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "💈",
+    "words": ["barber", "barbershop"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🍬",
+    "words": ["sucker","sucka","lame"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🥋",
+    "words": ["martial-arts","karate","mma"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🌊",
+    "words": ["wave","wavy","waving"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🎁",
+    "words": ["gift","present","presenting"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🪆",
+    "words": ["hidden","secret","hide","hiding"
+  ],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🪄",
+    "words": ["wish","majic","majick","wishing"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "♠️♥️♣️♦️",
+    "words": ["cards"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "⏏️",
+    "words": ["eject","out"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🏍️",
+    "words": ["ride","motorcycle"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🛟",
+    "words": ["help","helping","helped"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🥚",
+    "words": ["eggs","egg"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🪁",
+    "words": ["kite","message"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🐟",
+    "words": ["fish","seafood"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🐎",
+    "words": ["run","running"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🚀",
+    "words": ["fast"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🤲🏾",
+    "words": ["some"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🪼",
+    "words": ["thing"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🤲🏾🪼",
+    "words": ["something"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🫦",
+    "words": ["krush"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🤞🏾",
+    "words": ["luck","lucky"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🥦",
+    "words": ["weed"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🥗",
+    "words": ["veggies","vegatable","vegatable","veg"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🛍️🛒",
+    "words": ["shop","shopping"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🪙",
+    "words": ["coins","coin"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "📦",
+    "words": ["box"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👈🏾",
+    "words": ["left"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🐫",
+    "words": ["dubai","saudi"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🦒",
+    "words": ["long","longer"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🍚",
+    "words": ["rice"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🔝",
+    "words": ["top"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🔚",
+    "words": ["end"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🔜",
+    "words": ["soon"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🪂",
+    "words": ["escape","getaway"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👇🏾",
+    "words": ["that"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👇🏾👇🏿",
+    "words": ["this"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👏🏽",
+    "words": ["clap","clapping","clapped"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🪱",
+    "words": ["thief","thieves"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🧷",
+    "words": ["safe","safety"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🚪",
+    "words": ["door","portal"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🚦",
+    "words": ["traffic","trafficking"],
+    "categories": [""]
+  },
+  {
+    "symbol": "🙏🏿🙏🏿🙏🏿",
+    "words": ["begging","beg","begger","beggin"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "🪖",
+    "words": ["military","army"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "🔫🪖🛡️",
+    "words": ["war","warring","wars"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "🫏",
+    "words": ["ass","donkey"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "0️⃣",
+    "words": ["zero","0"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "1️⃣",
+    "words": ["one","1"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "2️⃣",
+    "words": ["two", "2","to","also","too"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "3️⃣",
+    "words": ["three","3"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "4️⃣",
+    "words": ["four", "4","for"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "5️⃣",
+    "words": ["five","5"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "6️⃣",
+    "words": ["six", "6"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "7️⃣",
+    "words": ["seven", "7"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "8️⃣",
+    "words": ["eight", "8"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "9️⃣",
+    "words": ["nine", "9"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "🔟",
+    "words": ["ten", "10"],
+    "categories": ["place"]
+  },
+  {
+    "symbol": "🆕🗽",
+    "words": ["new-york", "nyc"],
+    "categories": ["location"]
+  },
+  {
+    "symbol": "💣",
+    "words": ["is"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🚥🚨",
+    "words": ["next"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🗿",
+    "words": ["old","ancient"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🫆",
+    "words": ["who"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🫰🏾",
+    "words": ["what"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🖖🏾",
+    "words": ["where"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👌🏾",
+    "words": ["when"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🤙🏾",
+    "words": ["why"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🤘🏾",
+    "words": ["how"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🫴🏾",
+    "words": ["has","had"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🤏🏾",
+    "words": ["if"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🪡",
+    "words": ["point","needle","sew","sewing"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🦜",
+    "words": ["talk","talking","talk-to-much"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🍑",
+    "words": ["atlanta","atl","peach"],
+    "categories": ["location"]
+  },
+  {
+    "symbol": "🟥",
+    "words": ["red"],
+    "categories": ["color"]
+  },
+  {
+    "symbol": "🟧",
+    "words": ["orange"],
+    "categories": ["color"]
+  },
+  {
+    "symbol": "🟨",
+    "words": ["yellow"],
+    "categories": ["color"]
+  },
+  {
+    "symbol": "🟩",
+    "words": ["green"],
+    "categories": ["color"]
+  },
+  {
+    "symbol": "🟦",
+    "words": ["blue"],
+    "categories": ["color"]
+  },
+  {
+    "symbol": "🟫",
+    "words": ["brown"],
+    "categories": ["color"]
+  },
+  {
+    "symbol": "🟪",
+    "words": ["purple"],
+    "categories": ["color"]
+  },
+  {
+    "symbol": "🌽",
+    "words": ["native","farming"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🍯",
+    "words": ["honey","sweet","sweety"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🌥️",
+    "words": ["cloudy"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "ℹ️",
+    "words": ["info","information"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "♋",
+    "words": ["freak","freaky"],
+    "categories": ["word"]
+  },
+
+  {
+    "symbol": "🥌",
+    "words": ["need","needed"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🎀",
+    "words": ["more","again"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🐍",
+    "words": ["snake","sneaky","sneak","sneaking"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🤿",
+    "words": ["mode"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🎽",
+    "words": ["vest","freaky"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "💣",
+    "words": ["bullet","bullets"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🌕",
+    "words": ["moon","full"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🌰",
+    "words": ["nut","nuts"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "☄️",
+    "words": ["do","doing","done"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "☸️",
+    "words": ["from"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🍁",
+    "words": ["would"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🩻",
+    "words": ["their"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🀄",
+    "words": ["about"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "⚓",
+    "words": ["get","getting","got"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "?🫎",
+    "words": ["which"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👎🏿⚖️👍🏿",
+    "words": ["just","justice"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🈹",
+    "words": ["take","taking"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🧤🈹",
+    "words": ["took"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "✅🥫✅",
+    "words": ["could"],
+    "categories": ["word"]
+  },
+
+  {
+    "symbol": "🥮",
+    "words": ["other"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🚨🦋",
+    "words": ["than"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🐦‍🔥",
+    "words": ["only"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🐽🥧🥮",
+    "words": ["come"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🐽🎇",
+    "words": ["came"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🀄🪽",
+    "words": ["over"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🎴🃏♟️",
+    "words": ["after","afterwards"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🦁",
+    "words": ["use","using","used"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "⭕🪮",
+    "words": ["because"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🀄♻️🍩",
+    "words": ["most"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🎴🃏",
+    "words": ["way"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🫚🔦",
+    "words": ["give","giving","gave"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "✳️",
+    "words": ["these"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🪻🪻",
+    "words": ["those"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "⛽",
+    "words": ["gas","fuel","gassing","fueling","fueled","gassed"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🐲🐉🐒",
+    "words": ["should"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🧰",
+    "words": ["work","working","works","worked"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🟨🟩 🟦🟥🟪",
+    "words": ["color","colors","coloring","colored"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🪩❌🅱️",
+    "words": ["all","total","everything"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👁️Ⓜ️",
+    "words": [ "i'm"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "⚽🏀🏈",
+    "words": ["balls","balling","ballin"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "⚾",
+    "words": ["ball","baseball","baseballs"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🚓⛓️‍💥⚖️🔫",
+    "words": ["crime", "crimes"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "💰🤑💸",
+    "words": ["money","moneys"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🪞",
+    "words": ["mirror","mirroring","mirrored"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🛗🛗",
+    "words": ["people", "peoples","person","persons"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": " 🤛🏾🤜🏾 ",
+    "words": ["keep","keeps"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🌤️",
+    "words": ["sky", "skies"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🧠⛔🧠",
+    "words": ["forget","forgets"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🙅🏾‍♂️🧠🙅🏾‍♀️",
+    "words": ["forgot","foregotten"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👩‍👩‍👧‍👦",
+    "words": ["them"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🕐🕓",
+    "words": ["then"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🐌",
+    "words": ["still","slow","snail","snails","slows"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "➕",
+    "words": ["add","plus","adding","added"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🛜📶",
+    "words": ["app","apps"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🧰⚙️⚒️",
+    "words": ["make","makes","making","made"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "↘️↙️",
+    "words": ["here","here's","spot","spotting"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🐽",
+    "words": ["with"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "❌🐽",
+    "words": ["without"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "💲🥑",
+    "words": ["so"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🧵🎨🚔🚨🦋",
+    "words": ["different"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🤿♟️🎒",
+    "words": ["yet"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🗜️",
+    "words": ["hold","holding","grasp","grasping"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🚣🏾‍♂️",
+    "words": ["or","oar"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🕓🧰🛗",
+    "words": ["our","ours","ourself","ourselves"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "➰➿",
+    "words": ["does"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🦁🛫",
+    "words": ["of"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🧑‍🧑‍🧒‍🧒🚏",
+    "words": ["work"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🖥️📺🖥️",
+    "words": ["screen","screens"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🌚",
+    "words": ["drake","blackface"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👁️📁📃",
+    "words": ["i'll","we'll"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👥👩‍👩‍👧‍👦👥",
+    "words": ["everyone"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🥫",
+    "words": ["can"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🛗🛗",
+    "words": ["they"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "®️",
+    "words": ["are"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🈸",
+    "words": ["asian","asians"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👋🏾",
+    "words": ["hello","hi","greeting","greetings"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "😂",
+    "words": ["laugh","laughing","funny"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "😂🎊😁🎊",
+    "words": ["wonderful","fabulous","excite","excitement"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🕹️‼️🕹️",
+    "words": ["enjoy","enjoyment"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🌬️",
+    "words": ["blow","blowing","wind","windy"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🧨",
+    "words": ["match","matches","matching"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "📋",
+    "words": ["let's","let","lets"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🚲",
+    "words": ["bikes","bike"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🏞️🅿️🏞️",
+    "words": ["travel","travels","traveled","traveling"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🌋🌋🌋",
+    "words": ["pimple"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "Ⓜ️🗓️",
+    "words": ["monday","mondays"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🪄🪄🪄",
+    "words": ["magic","magick","wish","wishes","wishing","majic"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🎉🍿🍾",
+    "words": ["poppin","popper"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🗽🏞️🅿️",
+    "words": ["central-park"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🏞️🅿️",
+    "words": ["park"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "Ⓜ️🤲🏾👁️",
+    "words": ["my", "mine","mine","mines"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👇🏾💣💣",
+    "words": ["that's"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "⭕💣💣",
+    "words": ["it's"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "↕️↔️↕️",
+    "words": ["gone"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "↕️➡️⬅️↕️",
+    "words": ["going"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🫧🫧🫧",
+    "words": ["bubbles","bubble","bubbled"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "⏲️⌛⏲️",
+    "words": ["while","whilst"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "➡️🧭⬅️",
+    "words": ["now"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "💶🏦🏦💷",
+    "words": ["riches","rich"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "💭🧠💭",
+    "words": ["dream"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🅱️🥏🛸",
+    "words": ["beyond"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🟰🟰🟰",
+    "words": ["equal","equals","equaled"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "📃🧪📃",
+    "words": ["test"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🏺🏺",
+    "words": ["was"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "⛔✖️🚫",
+    "words": ["never"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "♾️🌲♾️",
+    "words": ["ever"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🥡📤⏏️",
+    "words": ["outta"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👦🏾👦🏾",
+    "words": ["boy","boys"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👧🏾👧🏾",
+    "words": ["girl","girls"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🧩😵‍💫🧩",
+    "words": ["problem","problems"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🐒🐒",
+    "words": ["stealing","steal","stole","stolen"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👟⛓️👟",
+    "words": ["escape"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "💀🧟‍♂️💀",
+    "words": ["devil"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "⚖️↕️⚖️↔️⚖️",
+    "words": ["choose","chose","chooses","choosing"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🦾➕💪🏾",
+    "words": ["snuff","snuffed","snuffing"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🪖🔫🥷🏾🪖",
+    "words": ["drill","drilling","drilled","drills"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "📠📠📠",
+    "words": ["facts"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🧨🔥🧨",
+    "words": ["lit"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🌡️🌊🫖 ",
+    "words": ["bodied","bodies"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🔍👀🔍",
+    "words": ["peep","peeped","peeps","peeping"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🫓🔥🫓",
+    "words": ["grill"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🧱🧱",
+    "words": ["brick","bricks","bricking"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🏪🏚️🏬🏪",
+    "words": ["bodega","bodegas"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👺💢👹",
+    "words": ["tight"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🤡🃏🤡",
+    "words": ["bamma"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "⌛⌛",
+    "words": ["wait","waiting","waited","waits"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🕳️⌛⌚🕳️",
+    "words": ["wholetime"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🛒™️🛍️",
+    "words": ["merch"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🪙🪙🪙",
+    "words": ["change","changes","changing","changed"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "⏬🗣️⏬",
+    "words": ["try"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🗣️",
+    "words": ["say"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🤮🤮",
+    "words": ["od","o.d.","overdose","overdosed","overdosing"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🖖🏿⭐🖖🏿",
+    "words": ["kirk","kirkin","kirking","kirked"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🗜️🤝🏿🗜️",
+    "words": ["dibs"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🤯😶‍🌫️🤯",
+    "words": ["blown"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🪦⚰️🥷🏾⚰️🪦",
+    "words": ["dead-homies"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🛸👁️🛸",
+    "words": ["irky"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🪨",
+    "words": ["rock","rocks","rocked","rocking"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🛟",
+    "words": ["save"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🛟🛟",
+    "words": ["saves","saving","saved"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🏘️🏘️",
+    "words": ["among","amongst"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🏘️👁️🏘️",
+    "words": ["group","groups","grouped","grouping"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👨🏾‍💻👨🏾‍💻",
+    "words": ["code","coder","codes","coding"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "👨🏾‍💻↕️➡️⬅️↕️👨🏾‍💻",
+    "words": ["goes"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🦮",
+    "words": ["guide","guides","guiding","guided"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "🫵🏾Ⓜ️🤲🏾🫵🏾",
+    "words": ["you'll","you'd"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "❌🍁❌",
+    "words": ["wouldn't","won't"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "❌🥫❌",
+    "words": ["can't","couldn't"],
+    "categories": ["word"]
+  },
+  {
+    "symbol": "✅🪮🪮✅",
+    "words": ["we've"],
+    "categories": ["word"]
+  },
+ 
+  {
+    "symbol": "❌🐲🐉🐒❌",
+    "words": ["shouldn't"],
+    "categories": ["word"]
+  }
+]

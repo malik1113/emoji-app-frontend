@@ -1,0 +1,71 @@
+.compose-translator {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.compose-translator label {
+  font-weight: bold;
+  color: #2f4f2f;
+}
+
+.compose-translator textarea {
+  width: 100%;
+  min-height: 80px;
+  resize: vertical;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+.button-group {
+  display: flex;
+  gap: 10px;
+}
+
+.btn-translate,
+.btn-post {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn-translate {
+  background-color: #2e7d32; /* dark green */
+  color: white;
+}
+
+.btn-translate:hover {
+  background-color: #1b5e20;
+}
+
+.btn-post {
+  background-color: #4caf50; /* lighter green */
+  color: white;
+}
+
+.btn-post:disabled {
+  background-color: grey;
+  cursor: not-allowed;
+}
+
+.error-text {
+  color: red;
+  font-size: 0.9rem;
+}
+
+.emoji-display {
+  font-size: 1.5rem;
+  margin-top: 10px;
+}
+
+.emoji-char {
+  margin-right: 4px;
+}

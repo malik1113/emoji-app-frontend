@@ -1,0 +1,274 @@
+/* ========================
+   GENERAL STYLING
+======================== */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.app-header {
+  background-color: #2e7d32;
+  color: white;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.app-header h1 {
+  font-size: 2.4rem;
+  text-align: center;
+}
+
+/* ========================
+   NAVIGATION BUTTONS
+======================== */
+.nav-btn {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+
+.nav-btn:hover {
+  background-color: #1b5e20;
+}
+
+.nav-btn.active {
+  opacity: 0.8;
+  cursor: default;
+}
+
+.nav-container {
+  display: flex;
+  gap: 8px;
+}
+
+/* ========================
+   MAIN CONTENT
+======================== */
+.app-main {
+  flex: 1;
+  padding: 1rem;
+  max-width: 600px;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* ========================
+   COMPOSE TRANSLATOR
+======================== */
+.compose-translator {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.compose-translator label {
+  font-weight: bold;
+  color: #2f4f2f;
+}
+
+.compose-translator textarea {
+  width: 100%;
+  min-height: 80px;
+  resize: vertical;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+}
+
+.button-group {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.btn-translate, .btn-post {
+  flex: 1;
+  min-width: 100px;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+.btn-translate {
+  background-color: #2e7d32;
+  color: white;
+}
+
+.btn-translate:hover {
+  background-color: #1b5e20;
+}
+
+.btn-post {
+  background-color: #4caf50;
+  color: white;
+}
+
+.btn-post:disabled {
+  background-color: grey;
+  cursor: not-allowed;
+}
+
+.error-text {
+  color: red;
+  font-size: 0.9rem;
+}
+
+.emoji-display {
+  font-size: 1.5rem;
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+}
+
+.emoji-dot {
+  background: linear-gradient(90deg, #2e7d32, #a5d6a7);
+  -webkit-background-clip: text;
+  color: transparent;
+  margin: 0 2px;
+  font-size: 1rem;
+}
+
+/* ========================
+   CHATTER
+======================== */
+.chatter-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.chatter-post {
+  background: white;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  transition: background 0.2s;
+}
+
+.chatter-post:hover {
+  background: #f0fdf4;
+}
+
+.chatter-text {
+  font-size: 1rem;
+  line-height: 1.4rem;
+  word-wrap: break-word;
+  overflow-x: auto;
+}
+
+.chatter-translation {
+  margin-top: 4px;
+  font-style: italic;
+  font-size: 0.95rem;
+  color: #555;
+  line-height: 1.3rem;
+}
+
+/* ========================
+   EMOJI LIBRARY
+======================== */
+.emoji-library {
+  background: white;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+/* ========================
+   RESPONSIVE
+======================== */
+@media (max-width: 600px) {
+  .app-main {
+    padding: 1rem;
+    max-width: 100%;
+  }
+
+  .app-header h1 {
+    font-size: 1.6rem;
+  }
+
+  .nav-container {
+    flex-direction: row;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  .nav-btn {
+    flex: 1 1 auto;
+    min-width: 100px;
+    padding: 10px 12px;
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  .compose-translator, .emoji-library, .chatter-post {
+    padding: 16px;
+    font-size: 1.1rem;
+  }
+
+  .compose-translator textarea {
+    min-height: 100px;
+    font-size: 1.1rem;
+  }
+
+  .button-group {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .btn-translate, .btn-post {
+    flex: 1 1 100%;
+    padding: 12px;
+    font-size: 1.1rem;
+  }
+
+  .chatter-text, .chatter-translation {
+    font-size: 1.15rem;
+    line-height: 1.5rem;
+  }
+
+  .emoji-display {
+    font-size: 1.8rem;
+    gap: 4px;
+  }
+
+  .emoji-dot {
+    font-size: 1.2rem;
+    margin: 0 3px;
+  }
+  @media (max-width: 768px) {
+    .app-header h1 {
+      font-size: 1.8rem; /* shrink to fit smaller screens */
+      width: 100%;
+      text-align: center;
+      margin-bottom: 8px;
+    }
+  }
+}
